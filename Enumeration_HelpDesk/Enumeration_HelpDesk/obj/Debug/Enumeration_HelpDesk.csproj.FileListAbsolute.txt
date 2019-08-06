@@ -1,0 +1,7 @@
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\bin\Debug\Enumeration_HelpDesk.exe.config
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\bin\Debug\Enumeration_HelpDesk.exe
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\bin\Debug\Enumeration_HelpDesk.pdb
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\obj\Debug\Enumeration_HelpDesk.csprojAssemblyReference.cache
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\obj\Debug\Enumeration_HelpDesk.csproj.CoreCompileInputs.cache
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\obj\Debug\Enumeration_HelpDesk.exe
+G:\C#\Enumeration_HelpDesk\Enumeration_HelpDesk\obj\Debug\Enumeration_HelpDesk.pdb
